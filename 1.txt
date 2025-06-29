@@ -1,3 +1,4 @@
 first change
 second change
 third change from GitHub
+ branch_with_conflicts from IDEA
